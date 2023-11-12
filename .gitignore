@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Archivo de variables de entorno
+.env
+
+# Directorio de construcción
+build/
+
+# Directorio de distribución
+dist/
+
+# .vscode directory
+.vscode/
+
+# Archivo de configuración de Visual Studio
+.vsconfig
